@@ -1,0 +1,30 @@
+2025-11-21 12:20:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Myworkspace\OpenCart2025\Mastertestng.xml
+
+2025-11-21 12:22:16 INFO  TC001_AccountRegistrationTest:20 - *********** TC001_AccountRegistrationTest STARTED ***********
+2025-11-21 12:22:17 INFO  TC001_AccountRegistrationTest:24 - Clicked my account
+2025-11-21 12:22:17 INFO  TC001_AccountRegistrationTest:27 - Clicked Register
+2025-11-21 12:22:17 INFO  TC001_AccountRegistrationTest:31 - Entering customer details....
+2025-11-21 12:22:19 INFO  TC001_AccountRegistrationTest:46 - Validating expected message....
+2025-11-21 12:22:19 INFO  TC001_AccountRegistrationTest:66 - *********** TC001_AccountRegistrationTest COMPLETED ***********
+2025-11-21 12:22:22 INFO  TC002_LoginTest:16 - ************* TC002_LoginTest STARTED ****************
+2025-11-21 12:22:23 INFO  TC002_LoginTest:23 - clicked to open Login page ..
+2025-11-21 12:22:24 INFO  TC002_LoginTest:42 - ************* TC002_LoginTest COMPLETED ****************
+2025-11-21 12:42:53 INFO  TC001_AccountRegistrationTest:20 - *********** TC001_AccountRegistrationTest STARTED ***********
+2025-11-21 12:42:53 INFO  TC001_AccountRegistrationTest:24 - Clicked my account
+2025-11-21 12:42:54 INFO  TC001_AccountRegistrationTest:27 - Clicked Register
+2025-11-21 12:42:54 INFO  TC001_AccountRegistrationTest:31 - Entering customer details....
+2025-11-21 12:42:55 INFO  TC001_AccountRegistrationTest:46 - Validating expected message....
+2025-11-21 12:42:56 INFO  TC001_AccountRegistrationTest:66 - *********** TC001_AccountRegistrationTest COMPLETED ***********
+2025-11-21 12:42:59 INFO  TC002_LoginTest:16 - ************* TC002_LoginTest STARTED ****************
+2025-11-21 12:43:00 INFO  TC002_LoginTest:23 - clicked to open Login page ..
+2025-11-21 12:43:01 INFO  TC002_LoginTest:42 - ************* TC002_LoginTest COMPLETED ****************
+2025-11-21 12:49:26 INFO  TC001_AccountRegistrationTest:20 - *********** TC001_AccountRegistrationTest STARTED ***********
+2025-11-21 12:49:27 INFO  TC001_AccountRegistrationTest:24 - Clicked my account
+2025-11-21 12:49:27 INFO  TC001_AccountRegistrationTest:27 - Clicked Register
+2025-11-21 12:49:27 INFO  TC001_AccountRegistrationTest:31 - Entering customer details....
+2025-11-21 12:49:29 INFO  TC001_AccountRegistrationTest:46 - Validating expected message....
+2025-11-21 12:49:29 INFO  TC001_AccountRegistrationTest:66 - *********** TC001_AccountRegistrationTest COMPLETED ***********
+2025-11-21 12:49:32 INFO  TC002_LoginTest:16 - ************* TC002_LoginTest STARTED ****************
+2025-11-21 12:49:33 INFO  TC002_LoginTest:23 - clicked to open Login page ..
+2025-11-21 12:49:34 INFO  TC002_LoginTest:42 - ************* TC002_LoginTest COMPLETED ****************
